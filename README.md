@@ -1,4 +1,4 @@
-# (https://ibb.co/Qcs0R0J) Hola, mi nombre es Anderson Malavé 👋
+# <a href="https://ibb.co/Qcs0R0J"><img src="https://i.ibb.co/Qcs0R0J/Screenshot-1.jpg" alt="Screenshot-1" border="0"></a> Hola, mi nombre es Anderson Malavé 👋
 ### Freelance full-stack iOS & Android engineer
 
 
