@@ -3,11 +3,11 @@
 
 <a href="https://ibb.co/PtVCcVT"><img src="https://i.ibb.co/QXxmPx8/git.png" alt="git" border="0"></a>
 
-Hola, soy un Ingeniero Informático Venezolano graduado en 2016, con experiencia de 1.5 años como desarrollador junior en Chile [2017 a 2018], donde trabajé con tecnologías como PHP, CodeIgniter y jQuery. Después de una pausa en mi carrera desde 
+Hola, soy un Ingeniero Informático Venezolano graduado en 2016, con experiencia de 1.5 años como desarrollador junior en Chile, donde trabajé con tecnologías como PHP, CodeIgniter y jQuery. Después de una pausa en mi carrera 
 
-2018, he decidido retomar el aprendizaje y actualizar mis conocimientos en desarrollo de software para volver a la industria. Actualmente, estoy enfocado en mejorar mis habilidades y explorar nuevas tecnologías con el 
+desde 2018, he decidido retomar el aprendizaje y actualizar mis conocimientos en desarrollo de software para volver a la industria. 
 
-objetivo de encontrar nuevas oportunidades de trabajo en el área.
+Actualmente, estoy enfocado en mejorar mis habilidades y explorar nuevas tecnologías con el objetivo de encontrar nuevas oportunidades de trabajo en el área.
 
 <!--
 **andermalave/andermalave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
