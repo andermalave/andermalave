@@ -1,7 +1,7 @@
 # Hola, mi nombre es Anderson Malavé 👋
 ### Freelance Desarrollo Web | Aprendiendo Desarrollo Frontend |
 
-<a href="https://ibb.co/5Bvnhps"><img src="https://i.ibb.co/syQ69xs/git.png" alt="git"  heitgh="700px" width="1280px" border="0"></a>
+<a href="https://ibb.co/5Bvnhps"><img src="https://i.ibb.co/syQ69xs/git.png" alt="git"  heitgh="400px" width="960px" border="0"></a>
 
 Hola, soy un Ingeniero Informático Venezolano graduado en 2016, con experiencia de 1.5 años como desarrollador junior en Chile, donde trabajé con tecnologías como PHP, CodeIgniter y jQuery. Después de una pausa en mi carrera 
 
