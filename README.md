@@ -1,5 +1,5 @@
 # Hola, mi nombre es Anderson Malavé 👋
-### Freelance Desarrollo Web | Aprendiendo Desarrollo Frontend |
+### Freelance en Desarrollo Web | Aprendiendo Frontend y Backend |
 
 [<a href="https://ibb.co/5Bvnhps"><img src="https://i.ibb.co/syQ69xs/git.png" alt="git"  heitgh="400px" width="960px" border="0"></a>](https://i.ibb.co/HnYxTwG/git.png)
 
