@@ -1,4 +1,6 @@
-## Hola mi nombre es Anderson Malavé 👋
+# (https://ibb.co/Qcs0R0J) Hola, mi nombre es Anderson Malavé 👋
+### Freelance full-stack iOS & Android engineer
+
 
 Hola, soy un Ingeniero Informático Venezolano graduado en 2016, con experiencia de 1.5 años como desarrollador junior en Chile [2017 a 2018], donde trabajé con tecnologías como PHP, CodeIgniter y jQuery. Después de una pausa en mi carrera desde 
 
